@@ -1,6 +1,7 @@
 # 🤖 Voice-Based Interview Bot using Machine Learning
 
-![Interview Bot Flowchart](bot.png)
+![Interview Bot Flowchart](![bot](https://github.com/user-attachments/assets/5ab52662-e0cd-49bc-a98e-2a92ab13b82e)
+)
 
 This project is a **Voice-Based Interview Taking Bot** that conducts technical interviews by asking questions using voice, listening to spoken answers, and predicting correctness using a machine learning model.
 
